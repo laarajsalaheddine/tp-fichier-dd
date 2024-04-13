@@ -38,7 +38,7 @@ require("functions.php");
 
 <body>
     <div class="container">
-        <h1 class="text-center">Gestion des employés</h1>
+        <h1 class="text-center text-uppercase">Gestion des employés</h1>
     </div>
     <div id="call-to-action" class="container">
         <a href="#" class="btn btn-primary">Ajouter</a>
@@ -83,6 +83,7 @@ require("functions.php");
             </tbody>
         </table>
     </div>
+    <script src="script.js"></script>
 </body>
 
 
